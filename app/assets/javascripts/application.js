@@ -11,5 +11,9 @@
 // about supported directives.
 //
 //= require rails-ujs
-//= require activestorage
+//= require jquery
+//= require jquery_ujs
 //= require_tree .
+//= require moment
+//= require fullcalendar
+
